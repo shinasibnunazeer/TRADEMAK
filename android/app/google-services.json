@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729196704104",
+    "project_id": "tagmak-ec35f",
+    "storage_bucket": "tagmak-ec35f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729196704104:android:be3e3a481ffb904b06e6dd",
+        "android_client_info": {
+          "package_name": "com.noyob.tagmak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6p1TNYyw7CYZThrcBuKQYBk3jmyTejB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
